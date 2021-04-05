@@ -983,7 +983,9 @@ section {
 .portfolio-details {
   padding-top: 40px;
 }
-
+.ss-link{
+  display: none;
+}
 .portfolio-details .portfolio-details-container {
   position: relative;
 }
